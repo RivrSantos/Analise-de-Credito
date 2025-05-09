@@ -18,3 +18,14 @@ Este projeto utiliza **Machine Learning** para prever o **score de crédito de c
 - Scikit-learn
 - Plotly
 
+## 📁 Estrutura Esperada
+- venv/clientes.csv: base original para treino.
+- venv/novos_clientes.csv: base para previsão.
+
+## 📈 Resultados
+O modelo Random Forest apresentou melhor performance e foi usado para prever o score dos novos clientes com base em atributos como profissão, mix de crédito e comportamento de pagamento.
+
+## 👤 Autor
+- Rivr Santos
+- Python | Data Analytics | Front-End
+- Conecte-se comigo
